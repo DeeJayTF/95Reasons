@@ -1,2 +1,2 @@
 # 95Reasons
-95 Reasons, why SWT should have an Online-Abgabesystem
+95 Reasons, why SWT should have an Online-Submissionsystem
